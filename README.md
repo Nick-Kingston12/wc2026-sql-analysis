@@ -130,10 +130,10 @@ Ingested via: `IBRAHIMKHALIL-AI/FIFA-WORLD-CUP-2026-Intelligence-Platform` (GitH
 
 ## 👤 Author
 
-**Nick van Rensburg**  
+**Nick Kingstonm**  
 BCom Information Systems & Business Management | Nelson Mandela University  
 📍 Nijmegen, Netherlands  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/nick-kingston-12nk) · [GitHub](https://github.com/Nick-Kingston12)
 
 ---
 
